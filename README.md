@@ -1,3 +1,3 @@
 # CarBlog
 
-This project to lern CSS
+This is a project to lern CSS
